@@ -1,7 +1,7 @@
 # QuickPost
 ** Medium like application:**
 
-This project is a clone of the popular blogging platform Medium, designed to provide a seamless and engaging user experience. Leveraging a modern tech stack, this application prioritizes scalability, performance, and security, making it ideal for bloggers and readers alike.
+This project is a basic replica of the popular blogging platform Medium, designed to provide a seamless and engaging user experience. Leveraging a modern tech stack, this application prioritizes scalability, performance, and security, making it ideal for bloggers and readers alike.
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@ This project is a clone of the popular blogging platform Medium, designed to pro
 - [Common Module Deployment](#common-module-deployment)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Technologies Used
 
