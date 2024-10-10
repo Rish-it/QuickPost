@@ -38,7 +38,7 @@ export const Blogs = () => {
       <h1 className="flex justify-center border-b-1 text-2xl pt-3 font-extralight">
         Discover Memories
       </h1>
-      <div className="mt-3 mb-3 ml-[30rem] border max-w-xl"></div>
+      <div className="mt-3 mb-3 border border max-w-xl mx-auto"></div>
       <div className="flex justify-center">
         <div className="max-w-2xl">
           {blogs.map((blog, index) => (
