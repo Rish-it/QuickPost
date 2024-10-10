@@ -1,16 +1,16 @@
 import { Link, useNavigate } from "react-router-dom";
-import mediumlogo from "../assets/medium.png";
+import applogo from "../assets/quick.png";
 import { Avatar } from "./BlogCard";
 
 export const Appbar = () => {
   const navigate = useNavigate();
   return (
-    <div className="border-b-2 py-1 border-gray-200 px-10 flex justify-between ">
+    <div className="border-b-2 py-2 border-gray-200 px-10 flex justify-between ">
       <div className="flex items-center gap-4">
         <Link to="/blogs">
-          <img className="w-9 h-9 cursor-pointer" src={mediumlogo} alt="" />
+          <img className="w-9 h-9 cursor-pointer" src={applogo} alt="" />
         </Link>
-        <div className="text-xl font-bold">Medium</div>
+        <div className="text-xl font-bold">QuickPost</div>
       </div>
       <div className="flex items-center gap-3">
         <button
