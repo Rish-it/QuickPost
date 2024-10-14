@@ -4,12 +4,11 @@ export const Quote = () => {
       <div className="flex justify-center">
         <div className="max-w-lg">
           <div className="font-bold text-3xl">
-            "Unlock your voice. Join our community and start sharing your
-            stories with the world."
+          "The most powerful person in the world is the storyteller. The storyteller sets the vision, values, and agenda of an entire generation to come."
           </div>
-          <div className="max-w-md mt-4 font-semibold text-xl ">Tony Stubblebine</div>
+          <div className="max-w-md mt-4 font-semibold text-xl ">Steve Jobs</div>
           <div className="max-w-md font-light text-sm text-slate-500">
-            CEO | Medium.com
+            Co-founder | Apple
           </div>
         </div>
       </div>
